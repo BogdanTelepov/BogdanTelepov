@@ -14,7 +14,6 @@
 <br />
 
 
-
 Hello my name is Bogdan, and I'am a begining mobile developer. I'am learnin Git, Kotlin, Android and several interesting technologies.
 
 <br />
