@@ -32,5 +32,5 @@ Hello my name is Bogdan, and I'am a begining mobile developer. I'am learnin Git,
 <!-- TODO-IST:START -->
 * [x] Прокачать свой профиль на Github
 * [x] Пройти курс по Git на Slurm
-* [ ] Закончить pet project       
+* [x] Закончить pet project       
 <!-- TODO-IST:END -->
