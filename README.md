@@ -30,7 +30,7 @@ Hello my name is Bogdan, and I'am a begining mobile developer. I'am learnin Git,
 
 🚧 **Мои задачи на ближайшее время:**
 <!-- TODO-IST:START -->
-* [x] Прокачать свой профиль на Github
-* [x] Пройти курс по Git на Slurm
+* [x] Done study plan
+* [x] Learn MVVM
 * [x] Закончить pet project       
 <!-- TODO-IST:END -->
