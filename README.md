@@ -27,10 +27,3 @@ My name is Bogdan, and I'am a begining mobile developer. I'am learning Git, Kotl
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-
-🚧 **Мои задачи на ближайшее время:**
-<!-- TODO-IST:START -->
-* [x] Done study plan
-* [x] Learn MVVM
-* [x] Закончить pet project       
-<!-- TODO-IST:END -->
