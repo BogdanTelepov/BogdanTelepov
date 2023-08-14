@@ -8,12 +8,11 @@ My name is Bogdan, and I'am a Android Software Engineer with 3 years experience.
 
 <br />
 
-**Languages and Tools:**  
-<br />
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+### 💻 Tech skills: 
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,sqlite,git)](https://skillicons.dev)
+
+### 🛠 Tools:
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,idea,figma)](https://skillicons.dev)
 
 
 **Social networks:**
