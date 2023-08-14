@@ -17,7 +17,6 @@ My name is Bogdan, and I'am a Android Software Engineer with 3 years experience.
 
 **Social networks:**
 <br />
-Telegram
 <a href="https://t.me/bogdiiii">
-  <img align="left" alt="Abhishek's Telegram" width="22px" src="[https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg](https://cdn.worldvectorlogo.com/logos/telegram-1.svg)https://cdn.worldvectorlogo.com/logos/telegram-1.svg" />
+  <img align="left" alt="Abhishek's Telegram" width="22px" src="https://cdn.worldvectorlogo.com/logos/telegram-1.svg" />
 </a>
