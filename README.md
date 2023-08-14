@@ -9,10 +9,10 @@ My name is Bogdan, and I'am a Android Software Engineer with 3 years experience.
 <br />
 
 ### 💻 Tech skills: 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,sqlite,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,flutter,git)](https://skillicons.dev)
 
 ### 🛠 Tools:
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,idea,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,vscode,idea,figma,github,gitlab)](https://skillicons.dev)
 
 
 **Social networks:**
